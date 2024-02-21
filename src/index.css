@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "YoungSerif";
+  src: url("./assets/YoungSerif-Regular.ttf") format("opentype");
+}
+@font-face {
+  font-family: "Outfit";
+  src: url("./assets/Outfit-VariableFont_wght.ttf") format("opentype");
+}

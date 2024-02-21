@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.divide-light-grey > :not([hidden]) ~ :not([hidden]) {
+  --tw-divide-opacity: 0.2;
+  border-color: rgba(0 0 0 / var(--tw-divide-opacity));
+}
