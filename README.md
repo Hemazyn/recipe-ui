@@ -24,8 +24,8 @@ This Recipe code component is designed to be easily integrated into your React p
 
 ### Links
 
-- Solution URL: [Github repository](https://github.com/Hemazyn/qr-code-ui)
-- Live Site URL: [Netlify Link](https://qr-ui.netlify.app/)
+- Solution URL: [Github repository](https://github.com/Hemazyn/recipe-ui)
+- Live Site URL: [Netlify Link](https://hemazyn-recipe-ui.netlify.app/)
 
 ## My process
 
