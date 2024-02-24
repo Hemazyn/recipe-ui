@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Recipe page code component solution
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 This Recipe code component is designed to be easily integrated into your React projects, providing a visually appealing way to display Recipe design. The component is responsive and customizable, making it suitable for various projects.
